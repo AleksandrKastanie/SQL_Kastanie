@@ -1,5 +1,9 @@
-﻿1.Mis on andbebaasihaldussüsteem?
+﻿Täidab seda German
+1.Mis on andbebaasihaldussüsteem?
 selline süsteem koosneb programmide ja teekide seeriatest.
+
+Programmide komplekt, mis võimaldab luua andmebaasi ja neid hallata
+
 2.Palun paranda vead
 "
 insert into Person (Id, Name, Email, GenderId)
