@@ -23,4 +23,4 @@ values ('Spiderman', 'spider@spiderman.com', 2);
 "
 3.loetlege kõik 5 piirangut
 
-unique, not null, primary/forgein key, check
+UNIQUE, NOT NULL, PRIMARY KEY, FOREIGN KEY, CHECK
